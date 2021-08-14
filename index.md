@@ -30,30 +30,12 @@ mark down has a lot of ways to make your web page look good
 they have emojies, creating lists, changing font, adding 
 links and a lot more.
 
-3. jekyll? This is a 
+3. jekyll? is a tool used to make your webpage look better, it has tons of features theme change, page formatting and more. Jekyll is already a part of gh-pages but can also be installed on your terminal by entering the commands:  
+- gem install bundler jekyll
+- jekyll new my-awesome-site
+- cd my-awesome-site bundle exec jekyll serve
 
+# => Now browse to http://localhost:4000 
+just go to their site to learn more about how to use [jekyll](https://jekyllrb.com/)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devDukes-99/devDukes-99.github.io-reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+thanks for visiting hopefully this was helpful!
